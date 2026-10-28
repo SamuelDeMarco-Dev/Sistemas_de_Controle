@@ -1,4 +1,4 @@
-# Sistemas de Controle — kit MATLAB para prova
+# Sistemas de Controle — kit MATLAB
 
 Coloque todos os arquivos na **mesma pasta** e abra essa pasta como *Current Folder* no MATLAB. As funções auxiliares só são encontradas se estiverem na pasta atual ou no path (`addpath('caminho/da/pasta')`).
 
