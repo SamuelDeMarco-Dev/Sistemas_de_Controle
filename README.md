@@ -2,8 +2,6 @@
 
 Coloque todos os arquivos na **mesma pasta** e abra essa pasta como *Current Folder* no MATLAB. As funções auxiliares só são encontradas se estiverem na pasta atual ou no path (`addpath('caminho/da/pasta')`).
 
-Na prova, o caminho mais rápido é abrir `prova_rapida.m`, trocar `G` e `C` no bloco ENTRADAS e apertar F5.
-
 ## Arquivos
 
 | Arquivo | O que faz |
